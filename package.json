@@ -24,7 +24,7 @@
     "nodemailer": "^6.7.5",
     "nodemon": "^2.0.18",
     "supertest": "^6.2.4",
-    "yup": "^0.32.11"
+    "yup": "^1.0.0"
   },
   "devDependencies": {
     "jest": "^28.1.2"
